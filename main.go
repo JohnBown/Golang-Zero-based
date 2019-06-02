@@ -1,8 +1,7 @@
 package main
 
 import (
-	// zerobased1 "./1.BasicType"
-	zerobased2 "./2.ControlStructure"
+	zerobased3 "./3.ApplicationType"
 )
 
 func main() {
@@ -26,5 +25,16 @@ func main() {
 	// zerobased2.Q2_7()
 	// zerobased2.Q2_8()
 	// zerobased2.Q2_9()
-	zerobased2.Q2_10()
+	// zerobased2.Q2_10()
+
+	// zerobased3.Q3_1()
+	// zerobased3.Q3_2()
+	// zerobased3.Q3_3()
+	// zerobased3.Q3_4()
+	// zerobased3.Q3_5()
+	// zerobased3.Q3_6()
+	// zerobased3.Q3_7()
+	// zerobased3.Q3_8()
+	// zerobased3.Q3_9()
+	zerobased3.Q3_10()
 }
